@@ -1,0 +1,15 @@
+.idea
+/vendor
+
+# Global
+.*.swp
+.DS_Store
+
+# Application
+web/app/composer.lock
+web/app/vendor/
+data/
+
+# VSCode
+.vscode/
+

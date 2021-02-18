@@ -1,0 +1,5 @@
+id;ean;manufacturer;product;description;packaging product;foo;packaging unit;amount per unit;items on stock (availability);warehouse
+12345600001;23880602029774;Drinks Corp.;Soda Drink, 12 * 1,0l;Lorem ipsum usu amet dicat nullam ea;case 12;bar;bottle;1.0l;123;north
+12345600002;23880602029781;Drinks Corp.;Orange Drink, 20 * 0,5l;Viris imperdiet forensibus ius ei;case 20;baz;bottle;0.5l;234;north
+12345600003;23880602029798;Drinks Corp.;Beer, 6 * 0,5l;Ad mel causae virtute prodesset, aperiam percipitur in mei.;box 6;lorem;can;0.5l;345;west
+12345600004;23880602029767;Drinks Corp.;Champagne, 1 * 0,75l;Ius tempor qualisque suscipiantur net.;single;ipsum;bottle;0.75l;456;north

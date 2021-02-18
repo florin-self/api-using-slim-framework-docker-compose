@@ -1,0 +1,17 @@
+{
+  "name": "sales/coding-challenge-wholesaler-integration",
+  "description": "sales Coding Challenge: Wholesaler Assortment",
+  "autoload": {
+    "psr-0": {
+      "sales\\": "src/sales/Dataprovider/Assortment"
+    }
+  },
+  "require": {
+    "php": ">=7.0",
+    "slim/slim": "3.*"
+  },
+  "require-dev": {
+  },
+  "suggest": {
+  }
+}
